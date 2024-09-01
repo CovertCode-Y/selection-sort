@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\\u05D9\u05D5\u05E1\u05E3\\Downloads\\8 \u05E8\\\u05E9\u05D1\u05D5\u05E2 10\\selection_sort\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5B396664-AB05-483E-8B70-AF97EC04E7A0}|selection_sort\\selection_sort.csproj|c:\\users\\\u05D9\u05D5\u05E1\u05E3\\downloads\\8 \u05E8\\\u05E9\u05D1\u05D5\u05E2 10\\selection_sort\\selection_sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5B396664-AB05-483E-8B70-AF97EC04E7A0}|selection_sort\\selection_sort.csproj|solutionrelative:selection_sort\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\\u05D9\u05D5\u05E1\u05E3\\Downloads\\8 \u05E8\\\u05E9\u05D1\u05D5\u05E2 10\\selection_sort\\selection_sort\\Program.cs",
+              "RelativeDocumentMoniker": "selection_sort\\Program.cs",
+              "ToolTip": "C:\\Users\\\u05D9\u05D5\u05E1\u05E3\\Downloads\\8 \u05E8\\\u05E9\u05D1\u05D5\u05E2 10\\selection_sort\\selection_sort\\Program.cs",
+              "RelativeToolTip": "selection_sort\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwA8AAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T07:35:24.822Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
